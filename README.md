@@ -31,7 +31,7 @@
 - java把异常当作对象来处理，并定义一个基类java.lang.Throwable作为所有异常的超类。
 - 在java api中已经定义了许多异常，这些异常分为两大类，错误Error和异常Excption
 
-![](/Users/a88/Desktop/JAVA/JavaLesson_6/图片/1690613565862.jpg)
+![](https://github.com/GISERJayY/JavaLesson_6/blob/main/%E5%9B%BE%E7%89%87/1690613565862.jpg?raw=true)
 
  ## Error
 
